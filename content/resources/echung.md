@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Esther Chung's sketch models of her studio.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-191-introduction-to-integrated-design-fall-2006/30338c0d4b99780c9fe3cea36371a4cf_Echung.jpg
+file: /media/courses/4-191-introduction-to-integrated-design-fall-2006/30338c0d4b99780c9fe3cea36371a4cf_Echung.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Esther Chung's sketch models of her studio.
   credit: 'Credit: Image courtesy of Esther Chung.'
   image-alt: Student work from Angela Watson's class, 4.191.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Studio for a Visiting Artist
+parent_type: CourseSection
 resourcetype: Image
 title: Echung.jpg
 uid: 30338c0d-4b99-780c-9fe3-cea36371a4cf
