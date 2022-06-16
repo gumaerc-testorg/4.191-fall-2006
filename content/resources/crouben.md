@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dawood Rouben's perspective of his pavilion.
-file: /media/courses/4-191-introduction-to-integrated-design-fall-2006/5d982ad9591238f47fe99f561f853d6f_Crouben.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/5d982ad9591238f47fe99f561f853d6f_Crouben.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Dawood Rouben's perspective of his pavilion.
@@ -11,7 +11,10 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Visitor Pavilion for Gay Head Light House
 parent_type: CourseSection
+parent_uid: eaccfa95-8c43-2f7a-6ba8-f57dc645f55d
 resourcetype: Image
 title: Crouben.jpg
 uid: 5d982ad9-5912-38f4-7fe9-9f561f853d6f
 ---
+Dawood Rouben's perspective of his pavilion.
+

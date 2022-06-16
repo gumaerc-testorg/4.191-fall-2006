@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chin-Chin Yao's perspective sketch.
-file: /media/courses/4-191-introduction-to-integrated-design-fall-2006/b175aa74e581b8c0fc3a8d9214dcfe25_Dyao.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/b175aa74e581b8c0fc3a8d9214dcfe25_Dyao.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Chin-Chin Yao's perspective sketch.
@@ -11,7 +11,10 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: A Place for Art
 parent_type: CourseSection
+parent_uid: 84387892-51bd-2244-b0a6-cb87a2592a2e
 resourcetype: Image
 title: Dyao.jpg
 uid: b175aa74-e581-b8c0-fc3a-8d9214dcfe25
 ---
+Chin-Chin Yao's perspective sketch.
+

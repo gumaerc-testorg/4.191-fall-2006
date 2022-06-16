@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dawood Rouben's elevation of his pavilion.
-file: /media/courses/4-191-introduction-to-integrated-design-fall-2006/640243a6148ccf89b9ba96c4a1fcfb2d_Brouben.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/640243a6148ccf89b9ba96c4a1fcfb2d_Brouben.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Dawood Rouben's elevation of his pavilion.
@@ -11,7 +11,10 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Guest Pavilion for a Visiting Scholar, Ash Street House
 parent_type: CourseSection
+parent_uid: 45b85040-da5c-cf0e-de74-97cc9630edd6
 resourcetype: Image
 title: Brouben.jpg
 uid: 640243a6-148c-cf89-b9ba-96c4a1fcfb2d
 ---
+Dawood Rouben's elevation of his pavilion.
+
