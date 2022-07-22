@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Shani Cho.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Studio for a Visiting Artist
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Echo.jpg
 uid: 0a0666b0-0912-71ae-394b-6b4207c9f1fd
 ---
 Shani Cho's sketch models of her studio.
-

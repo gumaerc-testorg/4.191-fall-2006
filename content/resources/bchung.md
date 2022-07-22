@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Esther Chung.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Guest Pavilion for a Visiting Scholar, Ash Street House
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Bchung.jpg
 uid: 2be01b9d-b0cc-089c-5996-262736a24d4c
 ---
 Esther Chung's plan of her pavilion.
-

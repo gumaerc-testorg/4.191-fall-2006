@@ -5,6 +5,7 @@ file: /courses/4-191-introduction-to-integrated-design-fall-2006/b6e2e50a87b155d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: b6e2e50a-87b1-55d8-c097-99efe35d5eec
 ---
 This resource contains an assignment on designing a pedestrian bridge.
-

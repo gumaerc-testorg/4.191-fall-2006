@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Andrea Bradshaw.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Pedestrian Bridge
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Abradshaw.jpg
 uid: 9f5c5ca9-bd6a-56ca-26cd-9bfbfedfc308
 ---
 Andrea Bradshaw's sketch model of her Pedestrian Bridge.
-

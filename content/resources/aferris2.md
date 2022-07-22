@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Lori Ferriss.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Pedestrian Bridge
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Aferris2.jpg
 uid: da2d3731-ee55-85b1-a303-75876cb0d396
 ---
 Lori Ferriss' final model of her Pedestrian Bridge.
-

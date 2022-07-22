@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Dawood Rouben.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Visitor Pavilion for Gay Head Light House
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Crouben.jpg
 uid: 5d982ad9-5912-38f4-7fe9-9f561f853d6f
 ---
 Dawood Rouben's perspective of his pavilion.
-

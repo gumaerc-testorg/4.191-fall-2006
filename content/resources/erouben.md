@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Dawood Rouben.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Studio for a Visiting Artist
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Erouben.jpg
 uid: b0e85864-ea63-a71d-fa56-397d081e57ed
 ---
 Dawood Ruben's sketch models of his studio.
-

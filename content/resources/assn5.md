@@ -6,6 +6,7 @@ file: /courses/4-191-introduction-to-integrated-design-fall-2006/da351a7aefd72ff
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn5.pdf
 uid: da351a7a-efd7-2ffb-96fb-41361503abaf
 ---
 This resource contains an assignment on designing a studio for a visiting artist for the Institute of Contemporary Art in Boston.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Chin-Chin Yao.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Visitor Pavilion for Gay Head Light House
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Cyao.jpg
 uid: 1062b8f0-3f3c-8182-4240-e666fdab2c71
 ---
 Chin-Chin Yao's plan, section, and elevation of her pavilion.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Chin-Chin Yao.'
   image-alt: Student work from Angela Watson's class, 4.191.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: A Place for Art
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Dyao.jpg
 uid: b175aa74-e581-b8c0-fc3a-8d9214dcfe25
 ---
 Chin-Chin Yao's perspective sketch.
-
