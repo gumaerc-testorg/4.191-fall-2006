@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course schedule, topics for lecture sessions,
+  and key dates for assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a14ea93e-03c6-f6a7-b0e0-4ea4e92c6c01
 ---

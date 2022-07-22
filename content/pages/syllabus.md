@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a brief overview of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bb4812a8-a1be-ff49-20b9-d5f015f8554d
 ---
