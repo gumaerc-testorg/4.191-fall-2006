@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains an assignment on designing a visitor pavilion
   for Gay Head Light.
 file: /courses/4-191-introduction-to-integrated-design-fall-2006/d9b5b4043ddd94af9199a06f06e0503f_assn3.pdf
+file_size: 25626
 file_type: application/pdf
 learning_resource_types:
 - Assignments

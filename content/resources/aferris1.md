@@ -2,6 +2,7 @@
 content_type: resource
 description: Lori Ferriss' sketch model of her Pedestrian Bridge.
 file: /courses/4-191-introduction-to-integrated-design-fall-2006/78306fe34185529df81ff54f1c79c1af_Aferris1.jpg
+file_size: 56307
 file_type: image/jpeg
 image_metadata:
   caption: Lori Ferriss' sketch model of her Pedestrian Bridge.

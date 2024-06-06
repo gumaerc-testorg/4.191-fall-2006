@@ -2,6 +2,7 @@
 content_type: resource
 description: Lori Ferriss' final model of her Pedestrian Bridge.
 file: /courses/4-191-introduction-to-integrated-design-fall-2006/da2d3731ee5585b1a30375876cb0d396_Aferris2.jpg
+file_size: 54374
 file_type: image/jpeg
 image_metadata:
   caption: Lori Ferriss' final model of her Pedestrian Bridge.
