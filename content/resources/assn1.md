@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an assignment on designing a pedestrian bridge.
 file: /courses/4-191-introduction-to-integrated-design-fall-2006/b6e2e50a87b155d8c09799efe35d5eec_assn1.pdf
+file_size: 14772
 file_type: application/pdf
 learning_resource_types:
 - Assignments

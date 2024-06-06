@@ -2,6 +2,7 @@
 content_type: resource
 description: Dawood Rouben's perspective sketch.
 file: /courses/4-191-introduction-to-integrated-design-fall-2006/39226461e04e137348782d609c0ef9ee_Drouben.jpg
+file_size: 71700
 file_type: image/jpeg
 image_metadata:
   caption: Dawood Rouben's perspective sketch.

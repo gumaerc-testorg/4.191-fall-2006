@@ -2,6 +2,7 @@
 content_type: resource
 description: Esther Chung's sketch models of her studio.
 file: /courses/4-191-introduction-to-integrated-design-fall-2006/30338c0d4b99780c9fe3cea36371a4cf_Echung.jpg
+file_size: 50669
 file_type: image/jpeg
 image_metadata:
   caption: Esther Chung's sketch models of her studio.
