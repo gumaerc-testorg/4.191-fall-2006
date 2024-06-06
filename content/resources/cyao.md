@@ -2,6 +2,7 @@
 content_type: resource
 description: Chin-Chin Yao's plan, section, and elevation of her pavilion.
 file: /courses/4-191-introduction-to-integrated-design-fall-2006/1062b8f03f3c81824240e666fdab2c71_Cyao.jpg
+file_size: 36151
 file_type: image/jpeg
 image_metadata:
   caption: Chin-Chin Yao's plan, section, and elevation of her pavilion.
