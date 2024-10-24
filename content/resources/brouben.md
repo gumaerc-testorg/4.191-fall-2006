@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dawood Rouben's elevation of his pavilion.
-file: /courses/4-191-introduction-to-integrated-design-fall-2006/640243a6148ccf89b9ba96c4a1fcfb2d_Brouben.jpg
+file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/640243a6148ccf89b9ba96c4a1fcfb2d_Brouben.jpg
 file_size: 34492
 file_type: image/jpeg
 image_metadata:

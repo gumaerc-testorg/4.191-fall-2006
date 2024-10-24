@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on Modern Architecture 1900-1960.
-file: /courses/4-191-introduction-to-integrated-design-fall-2006/10d77b1b76309ca00b3299a220f4cbea_lect2extra.pdf
+file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/10d77b1b76309ca00b3299a220f4cbea_lect2extra.pdf
 file_size: 61475
 file_type: application/pdf
 learning_resource_types:

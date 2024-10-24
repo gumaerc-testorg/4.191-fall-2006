@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an assignment on designing a studio for a visiting
   artist for the Institute of Contemporary Art in Boston.
-file: /courses/4-191-introduction-to-integrated-design-fall-2006/da351a7aefd72ffb96fb41361503abaf_assn5.pdf
+file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/da351a7aefd72ffb96fb41361503abaf_assn5.pdf
 file_size: 27922
 file_type: application/pdf
 learning_resource_types:

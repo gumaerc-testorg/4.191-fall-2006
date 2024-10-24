@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on bridge design, including the
   millenium bridge, basic bridge types, bridges within context, and assignment background.
-file: /courses/4-191-introduction-to-integrated-design-fall-2006/38017f1b674efd9997e0c9c7675f0962_lect1.pdf
+file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/38017f1b674efd9997e0c9c7675f0962_lect1.pdf
 file_size: 12489
 file_type: application/pdf
 learning_resource_types:

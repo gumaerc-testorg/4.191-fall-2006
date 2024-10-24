@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an assignment on making a place for art.
-file: /courses/4-191-introduction-to-integrated-design-fall-2006/bd559a0e74b6de857082e5fd87281aa6_assn4.pdf
+file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/bd559a0e74b6de857082e5fd87281aa6_assn4.pdf
 file_size: 30414
 file_type: application/pdf
 learning_resource_types:
