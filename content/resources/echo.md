@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Shani Cho's sketch models of her studio.
-file: /courses/4-191-introduction-to-integrated-design-fall-2006/0a0666b0091271ae394b6b4207c9f1fd_Echo.jpg
+file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/0a0666b0091271ae394b6b4207c9f1fd_Echo.jpg
 file_size: 57235
 file_type: image/jpeg
 image_metadata:
