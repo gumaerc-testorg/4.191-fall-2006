@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Andrea Bradshaw's sketch model of her Pedestrian Bridge.
-file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/9f5c5ca9bd6a56ca26cd9bfbfedfc308_Abradshaw.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/9f5c5ca9bd6a56ca26cd9bfbfedfc308_Abradshaw.jpg
 file_size: 78010
 file_type: image/jpeg
 image_metadata:

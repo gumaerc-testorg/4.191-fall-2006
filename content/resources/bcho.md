@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Shani Cho's concept sketch of her pavilion.
-file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/f86f3039a715912628f325d24d28236d_Bcho.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/f86f3039a715912628f325d24d28236d_Bcho.jpg
 file_size: 62342
 file_type: image/jpeg
 image_metadata:

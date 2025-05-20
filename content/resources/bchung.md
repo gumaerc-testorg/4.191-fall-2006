@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Esther Chung's plan of her pavilion.
-file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/2be01b9db0cc089c5996262736a24d4c_Bchung.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/2be01b9db0cc089c5996262736a24d4c_Bchung.jpg
 file_size: 41252
 file_type: image/jpeg
 image_metadata:
