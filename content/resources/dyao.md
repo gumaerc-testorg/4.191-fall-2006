@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chin-Chin Yao's perspective sketch.
-file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/b175aa74e581b8c0fc3a8d9214dcfe25_Dyao.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/b175aa74e581b8c0fc3a8d9214dcfe25_Dyao.jpg
 file_size: 84100
 file_type: image/jpeg
 image_metadata:
