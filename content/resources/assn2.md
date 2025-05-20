@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an assignment on designing a guest pavilion for
   Ash Street House.
-file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/09060c4cab857cca422829a3953d118d_assn2.pdf
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/09060c4cab857cca422829a3953d118d_assn2.pdf
 file_size: 30700
 file_type: application/pdf
 learning_resource_types:

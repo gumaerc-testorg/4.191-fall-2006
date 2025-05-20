@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dawood Ruben's sketch models of his studio.
-file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/b0e85864ea63a71dfa56397d081e57ed_Erouben.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/b0e85864ea63a71dfa56397d081e57ed_Erouben.jpg
 file_size: 56531
 file_type: image/jpeg
 image_metadata:

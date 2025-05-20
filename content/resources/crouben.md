@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dawood Rouben's perspective of his pavilion.
-file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/5d982ad9591238f47fe99f561f853d6f_Crouben.jpg
+file: /courses/4-191-introduction-to-integrated-design-fall-2006/5d982ad9591238f47fe99f561f853d6f_Crouben.jpg
 file_size: 37676
 file_type: image/jpeg
 image_metadata:
