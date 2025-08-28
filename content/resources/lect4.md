@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture notes on making a place for art.
-file: /courses/4-191-introduction-to-integrated-design-fall-2006/2c59f36d3e4a920f6b7b36078b8f6c94_lect4.pdf
+file: /ol-ocw-studio-app/courses/4-191-introduction-to-integrated-design-fall-2006/2c59f36d3e4a920f6b7b36078b8f6c94_lect4.pdf
 file_size: 8376
 file_type: application/pdf
 learning_resource_types:
